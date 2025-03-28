@@ -6,12 +6,12 @@
 #include "addons/TokenHelper.h"
 
 // Wi-Fi credentials (replace with your own)
-const char* ssid = "YOUR_WIFI_SSID";
-const char* password = "YOUR_WIFI_PASSWORD";
+const char* ssid = "WIFI_SSID";
+const char* password = "WIFI_PASSWORD";
 
 // Firebase credentials (replace with your own)
-#define API_KEY "YOUR_FIREBASE_API_KEY"
-#define STORAGE_BUCKET_ID "YOUR_PROJECT.appspot.com"
+#define API_KEY "FIREBASE_API_KEY"
+#define STORAGE_BUCKET_ID "PROJECT.appspot.com"
 
 // Firebase objects
 FirebaseData fbdo;
